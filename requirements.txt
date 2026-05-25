@@ -1,0 +1,7 @@
+streamlit
+mecab-python3
+ipadic
+scikit-learn
+matplotlib
+japanize-matplotlib
+google-generativeai

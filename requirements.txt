@@ -5,3 +5,4 @@ scikit-learn
 matplotlib
 japanize-matplotlib
 google-generativeai
+setuptools
